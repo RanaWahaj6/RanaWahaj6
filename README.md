@@ -6,14 +6,13 @@
 
 📱 Android Application Developer passionate about building modern and user-friendly mobile applications.
 
-💡 Skilled in Android Development using Java, Kotlin, Firebase, and REST APIs.
+💡 Skilled in Android Development using Java, Firebase, and REST APIs.
 
 ---
 
 ## 🛠️ Technical Skills
 
 - Java
-- Kotlin
 - Android Studio
 - XML
 - Firebase
@@ -54,6 +53,6 @@
 
 ## 📫 Contact
 
-📧 Email: your-email@example.com
+📧 Email: ranawahaj2403@gmail.com
 
 ⭐ Always eager to learn and build impactful mobile applications.

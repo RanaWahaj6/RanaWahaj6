@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Wahaj 👋
 
-<!--
-**RanaWahaj6/RanaWahaj6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 Software Engineering Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Android Application Developer passionate about building modern and user-friendly mobile applications.
+
+💡 Skilled in Android Development using Java, Kotlin, Firebase, and REST APIs.
+
+---
+
+## 🛠️ Technical Skills
+
+- Java
+- Kotlin
+- Android Studio
+- XML
+- Firebase
+- SQLite
+- REST APIs
+- Git & GitHub
+- Material Design
+- HTML, CSS, JavaScript (Basic)
+
+---
+
+## 📱 Featured Projects
+
+### 🛒 E-Commerce Android App
+- User Authentication using Firebase
+- Product Catalog and Cart Management
+- Order Processing System
+
+### 💰 Expense Tracker App
+- Track daily income and expenses
+- Monthly reports and analytics
+- Local storage using SQLite
+
+### 🍔 Food Delivery App
+- Restaurant listing and food ordering
+- Google Maps integration
+- Real-time order tracking
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Android Development
+- MVVM Architecture
+- Jetpack Compose
+
+---
+
+## 📫 Contact
+
+📧 Email: your-email@example.com
+
+⭐ Always eager to learn and build impactful mobile applications.

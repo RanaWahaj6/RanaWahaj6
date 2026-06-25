@@ -43,14 +43,6 @@
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced Android Development
-- MVVM Architecture
-- Jetpack Compose
-
----
-
 ## 📫 Contact
 
 📧 Email: ranawahaj2403@gmail.com
